@@ -12,7 +12,7 @@ Présenter les différents profils d'utilisateurs identifiés pour le projet **L
 
 Les personas permettent de guider les choix fonctionnels et de concevoir une expérience adaptée aux différents utilisateurs.
 
-![Persona du projet](personas.png)
+![Persona du projet](persona.png)
 
 ---
 
