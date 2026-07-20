@@ -1,36 +1,30 @@
 # 04 – Parties prenantes
 
-## Présentation
+## Objectif
 
-L'identification des parties prenantes permet de comprendre les acteurs concernés par le projet, leurs attentes ainsi que leur rôle dans la définition des besoins et l'utilisation de la solution.
-
-Dans le cadre de ce projet de fin de formation réalisé à Simplon Île-de-France, plusieurs parties prenantes ont été identifiées.
+Identifier les acteurs concernés par le projet de refonte du site internet du restaurant **Le Chemin d’Himalaya**, ainsi que leur rôle dans le projet.
 
 ---
 
 ## Parties prenantes
 
-| Partie prenante | Rôle dans le projet | Attentes principales |
-|-----------------|---------------------|----------------------|
-| Restaurant Le Chemin d'Himalaya | Bénéficiaire du projet et propriétaire du futur site internet. | Disposer d'un site internet moderne mettant en valeur le restaurant et sa carte. |
-| Clients du restaurant | Utilisateurs du site internet. | Consulter les informations du restaurant, découvrir les plats, effectuer une réservation, contacter le restaurant et laisser un avis. |
-| Administrateur du site | Responsable de la gestion du contenu du site. | Gérer le menu, les plats, les prix et administrer le site via un espace sécurisé. |
-| Porteur du projet | Réalisation de l'analyse, de la conception et du développement dans le cadre du projet de fin de formation. | Concevoir une solution répondant aux besoins identifiés lors de l'analyse métier. |
+| Partie prenante | Rôle dans le projet | Attentes |
+|-----------------|---------------------|----------|
+| Restaurant Le Chemin d’Himalaya | Bénéficiaire du projet de refonte du site internet. | Disposer d'un site vitrine moderne représentant le restaurant. |
+| Porteuse du projet (Prativa Kharel) | Réalisation du projet dans le cadre de la formation Développeur Web et Web Mobile chez Simplon. | Concevoir et développer la nouvelle version du site internet. |
+| Administrateur | Gère le contenu du site via l'espace d'administration (menus, plats, tarifs, comptes administrateurs). | Administrer facilement les contenus du site. |
+| Clients / Visiteurs | Consultent le site pour découvrir le restaurant et utiliser les fonctionnalités mises à disposition. | Accéder aux informations du restaurant, consulter le menu, réserver une table, contacter le restaurant, créer un compte et laisser un avis. |
 
 ---
 
-## Relations entre les parties prenantes
+## Utilisateurs identifiés
 
-Le restaurant exprime le besoin de moderniser sa présence numérique.
+Le cahier des charges identifie plusieurs profils de clients représentant les principaux utilisateurs du futur site :
 
-Les clients utilisent le site afin d'accéder aux informations du restaurant, consulter la carte, effectuer une réservation, prendre contact avec l'établissement et partager leur expérience.
+- Le professionnel local pressé.
+- Le passionné d'authenticité.
+- Le touriste explorateur.
+- Le groupe familial.
+- L'utilisateur digital (vente à emporter).
 
-L'administrateur assure la gestion du contenu du site afin de maintenir les informations proposées aux utilisateurs.
-
-Le porteur du projet analyse les besoins, conçoit la solution puis réalise le développement de l'application dans le cadre du projet de fin de formation.
-
----
-
-## Synthèse
-
-L'ensemble de ces parties prenantes participe directement ou indirectement à la réussite du projet. Leurs besoins et leurs attentes ont servi de base à la définition des fonctionnalités et à la conception de la nouvelle version du site internet.
+Ces profils servent de référence pour concevoir un site répondant aux besoins des différents types d'utilisateurs.
