@@ -1,37 +1,33 @@
 # 02 – Problématique métier
 
-## Constat
+## Contexte
 
-L'analyse de l'existant a mis en évidence plusieurs difficultés concernant la présence numérique du restaurant Le Chemin d'Himalaya.
+Le projet est né du constat que le site internet du restaurant **Le Chemin d’Himalaya** ne répondait plus aux attentes actuelles, tant sur le plan technique que visuel.
 
-Le site internet existant, créé en 2006, n'avait jamais fait l'objet d'une refonte majeure. Après près de vingt ans d'utilisation, il ne répondait plus aux standards actuels en matière de design, d'ergonomie et d'expérience utilisateur.
+L'analyse de l'existant a permis d'identifier plusieurs difficultés qui limitaient la qualité de la présence numérique du restaurant et sa compétitivité face aux autres établissements.
 
-Par ailleurs, les restaurants concurrents implantés dans le même secteur disposent de sites internet modernes et attractifs, offrant une meilleure visibilité ainsi qu'une expérience utilisateur plus adaptée aux usages actuels.
+---
 
-Le site existant présentait également plusieurs limites :
+## Constats
 
-- une interface visuelle vieillissante ;
-- une présentation limitée du menu ;
-- un manque de valorisation des plats proposés ;
-- une présence numérique moins attractive que celle des établissements concurrents.
+Les principaux constats identifiés sont les suivants :
 
-Ces constats limitaient la capacité du restaurant à valoriser son identité et son offre auprès des clients.
+- Le site internet date de **2006** et n'a jamais été reconstruit depuis sa création. Il est aujourd'hui dépassé sur les plans technique et visuel.
+
+- Les restaurants concurrents disposent de sites internet plus modernes, ce qui leur permet d'attirer davantage les clients et réduit la visibilité du restaurant **Le Chemin d’Himalaya**.
+
+- Les clients rencontrent des difficultés pour consulter un menu à jour ainsi que des photographies des plats, alors que ces informations sont essentielles pour un restaurant.
 
 ---
 
 ## Problématique métier
 
-Comment moderniser la présence numérique du restaurant Le Chemin d'Himalaya afin de proposer un site internet moderne, responsive et adapté aux usages actuels, tout en renforçant la visibilité de l'établissement et sa compétitivité face aux restaurants concurrents ?
+Face à ces constats, la problématique identifiée est la suivante :
+
+> **Comment transformer une présence numérique vieille de 20 ans en un site vitrine moderne et adapté aux mobiles, afin de mieux représenter la qualité du restaurant et de redevenir compétitif face aux autres établissements ?**
 
 ---
 
-## Enjeux métier
+## Enjeu métier
 
-La résolution de cette problématique doit permettre de :
-
-- moderniser l'image du restaurant ;
-- améliorer la visibilité du restaurant sur Internet ;
-- mettre davantage en valeur la cuisine indienne et népalaise proposée par l'établissement ;
-- faciliter l'accès aux informations recherchées par les clients ;
-- proposer une expérience utilisateur adaptée aux supports mobiles et aux ordinateurs ;
-- renforcer l'attractivité du restaurant face à la concurrence.
+L'enjeu consiste à remplacer un site internet devenu obsolète par une solution moderne, capable de mieux représenter le restaurant et de répondre aux attentes actuelles des utilisateurs.
