@@ -2,34 +2,34 @@
 
 ## Présentation du projet
 
-Ce document présente l'analyse métier réalisée dans le cadre de mon projet de fin de formation **Développeur Web et Web Mobile** au sein de **Simplon Île-de-France**.
+Ce projet a été réalisé dans le cadre de mon projet de fin d'études de la formation Développeur Web chez Simplon.
 
-Le projet consiste à concevoir une nouvelle version du site internet du restaurant **Le Chemin d'Himalaya**, un restaurant de cuisine indienne et népalaise situé à Évry-Courcouronnes (Essonne).
-
-L'objectif de cette étude est de présenter la démarche de Business Analysis ayant permis d'identifier les besoins du restaurant avant la conception et le développement de la solution.
+Il consiste à concevoir une nouvelle version du site internet du restaurant **Le Chemin d’Himalaya**.
 
 ---
 
-## Contexte du projet
+## Contexte
 
-Pour mon projet de fin de formation, j'ai choisi de reconstruire le site internet du restaurant Le Chemin d'Himalaya.
+Pour mon projet de fin d'études, j'ai choisi de reconstruire le site web du restaurant **Le Chemin d’Himalaya**, où j'ai travaillé en tant que chef.
 
-Ayant travaillé au sein de cet établissement en tant que chef, je connaissais son fonctionnement, son offre ainsi que les attentes de sa clientèle. Cette connaissance du métier m'a permis de mieux comprendre le contexte du projet et d'identifier les besoins auxquels une nouvelle solution numérique devait répondre.
+C'est en travaillant au sein du restaurant, tout en m'intéressant au développement web, que j'ai constaté que le site internet était ancien et dépassé par rapport aux sites des restaurants concurrents.
 
-Le site internet existant, créé en 2006, n'avait jamais été reconstruit depuis sa création. Après près de vingt ans d'existence, il ne répondait plus aux standards actuels du web sur les plans technique et visuel.
+J'ai choisi ce projet car mon expérience au sein de l'établissement me permettait de bien connaître son fonctionnement, le métier ainsi que les besoins des clients. Cette connaissance du terrain constituait un avantage pour concevoir une solution numérique adaptée à la réalité du restaurant.
 
-En parallèle, plusieurs restaurants concurrents du secteur disposaient de sites internet plus modernes, offrant une meilleure visibilité et une expérience utilisateur plus adaptée aux usages actuels.
+---
 
-Ces constats ont conduit à la réalisation d'un projet de refonte complète du site internet.
+## Contexte métier
+
+Le restaurant disposait d'un site internet créé en 2006 qui n'avait jamais été reconstruit depuis sa création.
+
+Après près de vingt ans d'existence, le site ne répondait plus aux standards actuels, aussi bien sur le plan technique que visuel.
+
+Dans le même temps, les restaurants concurrents du quartier proposaient des sites internet plus modernes, offrant une meilleure visibilité et une expérience utilisateur plus adaptée aux attentes actuelles.
+
+Cette situation a conduit à la réalisation d'un projet de refonte du site internet afin de proposer une solution moderne répondant aux besoins du restaurant et de ses clients.
 
 ---
 
 ## Finalité du projet
 
-Le projet vise à :
-
-- moderniser le site internet du restaurant ;
-- mieux représenter l'identité et l'offre du restaurant ;
-- améliorer l'expérience utilisateur ;
-- proposer une interface moderne et responsive ;
-- répondre aux besoins identifiés lors de l'analyse du contexte métier.
+Le projet consiste à concevoir une nouvelle version du site internet du restaurant Le Chemin d’Himalaya afin de remplacer le site existant devenu obsolète et de proposer une solution plus adaptée aux usages actuels.
