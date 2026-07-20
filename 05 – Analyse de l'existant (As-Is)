@@ -1,41 +1,59 @@
 # 05 – Analyse de l'existant (As-Is)
 
-## Objectif de l'analyse
+## Objectif
 
-L'analyse de l'existant a pour objectif d'évaluer le site internet du restaurant Le Chemin d'Himalaya avant sa refonte afin d'identifier les éléments répondant aux besoins du restaurant ainsi que les limites justifiant la mise en œuvre du projet.
+Analyser la situation actuelle du site internet du restaurant **Le Chemin d’Himalaya** afin d'identifier les éléments qui justifient sa refonte.
 
 ---
 
 ## Présentation de l'existant
 
-Le restaurant Le Chemin d'Himalaya disposait d'un site internet créé en 2006. Depuis sa mise en ligne, celui-ci n'avait jamais fait l'objet d'une refonte complète.
+Le restaurant **Le Chemin d’Himalaya** dispose d'un site internet créé en **2006**.
 
-Après près de vingt ans d'utilisation, le site ne répondait plus aux standards actuels du web, aussi bien sur le plan visuel que technique.
+Depuis sa mise en ligne, celui-ci n'a jamais été reconstruit. Après près de vingt ans d'utilisation, le site est devenu obsolète sur les plans technique et visuel.
 
 ---
 
 ## Constats
 
-L'analyse du site existant a permis d'identifier les constats suivants :
+L'analyse de l'existant met en évidence les constats suivants :
 
-- le site internet datait de 2006 et n'avait jamais été reconstruit ;
-- son apparence ne correspondait plus aux standards actuels ;
-- les restaurants concurrents du quartier disposaient de sites internet plus modernes, offrant une meilleure visibilité ;
-- les clients avaient des difficultés à consulter un menu à jour ;
-- le site ne mettait pas suffisamment en valeur les plats proposés par le restaurant.
+### Site ancien
+
+Le site internet date de **2006** et n'a jamais fait l'objet d'une reconstruction depuis sa création.
+
+### Présence numérique dépassée
+
+L'aspect visuel et technique du site est devenu ancien par rapport aux standards actuels.
+
+### Concurrence plus moderne
+
+Les restaurants concurrents disposent de sites internet modernes, ce qui leur permet d'offrir une meilleure présence en ligne et d'attirer davantage les clients.
+
+### Informations insuffisantes
+
+Les clients rencontrent des difficultés pour consulter :
+
+- un menu à jour ;
+- des photographies des plats.
+
+Ces informations sont pourtant importantes pour un restaurant.
 
 ---
 
-## Conséquences métier
+## Analyse comparative
 
-Ces constats avaient plusieurs impacts sur le restaurant :
+Le benchmark réalisé dans le cahier des charges montre que le site actuel présente plusieurs différences par rapport aux sites des restaurants concurrents.
 
-- une présence numérique moins attractive que celle des établissements concurrents ;
-- une mise en valeur limitée de l'offre du restaurant ;
-- un accès moins efficace aux informations recherchées par les clients.
+| Élément | Site actuel |
+|---------|-------------|
+| Page d'accueil | Basique / Dépassée (2006) |
+| Menu | Statique (Texte / PDF) |
+| Commande en ligne | Peu visible |
+| Contenu | Menu simple, galerie, histoire, contact |
 
 ---
 
 ## Besoin identifié
 
-L'analyse de l'existant met en évidence la nécessité de remplacer le site actuel par une solution plus moderne, responsive et adaptée aux usages actuels, afin de mieux représenter la qualité du restaurant et de renforcer sa compétitivité face aux autres établissements.
+L'analyse de l'existant met en évidence la nécessité de remplacer le site actuel par une nouvelle version plus adaptée aux usages actuels.
